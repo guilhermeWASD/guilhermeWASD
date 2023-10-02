@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Guilherme 🟡⚪⚫
+
+
+<a href="https://github.com/guilhermeWASD/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeWASD&hide=prs&show_icons=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/guilhermeWASD/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeWASD&theme=github_dark&layout=compact" />
+</a>
 
 <!--
 **guilhermeWASD/guilhermeWASD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
